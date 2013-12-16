@@ -1,4 +1,4 @@
-sample-utils-tes
+sample-utils-test
 ================
 
 Simple TDD exercise for creating utils module.
