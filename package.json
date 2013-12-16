@@ -1,0 +1,20 @@
+{
+  "name": "coffee-utils",
+  "version": "0.0.0",
+  "description": "Training exercise for CodeAngels course",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha --reporter spec --compilers coffee:coffee-script --watch"
+  },
+  "author": "sudodoki",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "~1.15.1",
+    "coffee-script": "~1.6.3",
+    "chai": "~1.8.1",
+    "sinon": "~1.7.3"
+  }
+}
