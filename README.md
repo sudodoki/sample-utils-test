@@ -8,6 +8,6 @@ To run exercise:
   2. Clone this repo && cd into it.
   3. ```npm install```
   4. Run ```npm test``` to run mocha, which will watch your file editing and run tests.
-  5. Modify utils.coffee to pass all tests. Protip: You shouldn't delete code that's there.
+  5. Modify utils.coffee to pass all tests. Protip: You shouldn't delete code that's there.  
   ???
   6. Ultimate profit.
